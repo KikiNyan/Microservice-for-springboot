@@ -1,0 +1,12 @@
+com\kikitech\kikitech\dto\InventoryResponse$InventoryResponseBuilder.class
+com\kikitech\kikitech\dto\InventoryResponse.class
+com\kikitech\kikitech\OrderController.class
+com\kikitech\kikitech\config\WebClientConfig.class
+com\kikitech\kikitech\model\OrderLineItems.class
+com\kikitech\kikitech\Order.class
+com\kikitech\kikitech\repository\OrderRepository.class
+com\kikitech\kikitech\orderservice\OrderService.class
+com\kikitech\kikitech\event\OrderPlacedEvent.class
+com\kikitech\kikitech\KikitechApplication.class
+com\kikitech\kikitech\dto\OrderLineItemsDto.class
+com\kikitech\kikitech\dto\OrderRequest.class

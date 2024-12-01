@@ -1,0 +1,11 @@
+C:\Users\ryanf\IdeaProjects\microserviceparents\order-service\src\main\java\com\kikitech\kikitech\config\WebClientConfig.java
+C:\Users\ryanf\IdeaProjects\microserviceparents\order-service\src\main\java\com\kikitech\kikitech\dto\InventoryResponse.java
+C:\Users\ryanf\IdeaProjects\microserviceparents\order-service\src\main\java\com\kikitech\kikitech\dto\OrderLineItemsDto.java
+C:\Users\ryanf\IdeaProjects\microserviceparents\order-service\src\main\java\com\kikitech\kikitech\dto\OrderRequest.java
+C:\Users\ryanf\IdeaProjects\microserviceparents\order-service\src\main\java\com\kikitech\kikitech\event\OrderPlacedEvent.java
+C:\Users\ryanf\IdeaProjects\microserviceparents\order-service\src\main\java\com\kikitech\kikitech\KikitechApplication.java
+C:\Users\ryanf\IdeaProjects\microserviceparents\order-service\src\main\java\com\kikitech\kikitech\model\OrderLineItems.java
+C:\Users\ryanf\IdeaProjects\microserviceparents\order-service\src\main\java\com\kikitech\kikitech\Order.java
+C:\Users\ryanf\IdeaProjects\microserviceparents\order-service\src\main\java\com\kikitech\kikitech\OrderController.java
+C:\Users\ryanf\IdeaProjects\microserviceparents\order-service\src\main\java\com\kikitech\kikitech\orderservice\OrderService.java
+C:\Users\ryanf\IdeaProjects\microserviceparents\order-service\src\main\java\com\kikitech\kikitech\repository\OrderRepository.java

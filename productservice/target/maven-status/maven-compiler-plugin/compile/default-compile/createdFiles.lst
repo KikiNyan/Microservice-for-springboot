@@ -1,0 +1,10 @@
+com\kikitech\productservice\ProductRepository.class
+com\kikitech\productservice\ProductResponse.class
+com\kikitech\productservice\Product$ProductBuilder.class
+com\kikitech\productservice\ProductController.class
+com\kikitech\productservice\ProductRequest$ProductRequestBuilder.class
+com\kikitech\productservice\ProductResponse$ProductResponseBuilder.class
+com\kikitech\productservice\ProductserviceApplication.class
+com\kikitech\productservice\service\ProductService.class
+com\kikitech\productservice\ProductRequest.class
+com\kikitech\productservice\Product.class

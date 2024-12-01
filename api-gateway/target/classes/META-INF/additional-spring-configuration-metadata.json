@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.cloud.gateway.routes[2].predicates[0]",
+      "type": "java.lang.String",
+      "description": "Description for spring.cloud.gateway.routes[2].predicates[0]."
+  }
+] }

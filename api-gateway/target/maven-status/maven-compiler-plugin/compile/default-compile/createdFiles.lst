@@ -1,0 +1,4 @@
+com\kikitech\apigateway\handler\ApiErrorResponse.class
+com\kikitech\apigateway\handler\ApiExceptionHandler.class
+config\SecurityConfig.class
+com\kikitech\apigateway\ApigatewayApplication.class

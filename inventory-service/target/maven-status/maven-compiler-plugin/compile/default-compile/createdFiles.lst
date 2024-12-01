@@ -1,0 +1,7 @@
+com\kikitech\inventoryservice\controller\InventoryController.class
+com\kikitech\inventoryservice\service\InventoryService.class
+com\kikitech\inventoryservice\InventoryserviceApplication.class
+com\kikitech\inventoryservice\model\repository\InventoryRepository.class
+com\kikitech\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\kikitech\inventoryservice\model\Inventory.class
+com\kikitech\inventoryservice\dto\InventoryResponse.class
